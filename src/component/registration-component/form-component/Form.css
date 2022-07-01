@@ -1,0 +1,142 @@
+.formComponentDiv {
+  width: 100%;
+  height: 86.3vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formCard {
+  width: 59%;
+  height: 95%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formCardInternal {
+  width: 80%;
+  height: 90%;
+}
+.formControl {
+  width: 100%;
+  height: 100%;
+}
+.formHead {
+  width: 100%;
+  height: 9%;
+  text-align: left;
+  font: normal normal bold 28px/37px Roboto;
+  letter-spacing: 0px;
+  color: #42515f;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.formFont {
+  text-align: left;
+  font: normal normal normal 18px/24px Roboto;
+  letter-spacing: 0px;
+  color: #42515f;
+  opacity: 1;
+}
+.nameDiv {
+  margin-top: 0.5vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.profileImgDiv {
+  margin-top: 0.5vw;
+  /* width: 55.6%; */
+  /* max-width: 55.6%; */
+  max-width: 505px;
+  width: 100%;
+  height: 9%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.profileRadioBtns {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.genderDiv {
+  margin-top: 0.5vw;
+  max-width: 339px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.departmentDiv {
+  margin-top: 0.5vw;
+  max-width: 645px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.checkBoxes {
+  display: flex;
+  flex-direction: row;
+}
+.salaryDiv {
+  margin-top: 0.5vw;
+  max-width: 560px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.selectDateDiv {
+  margin-top: 0.5vw;
+  max-width: 660px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dateInputDiv {
+  width: 500px;
+}
+.notesDiv {
+  margin-top: 1.5vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.textAreaField {
+  width: 38.6vw;
+}
+.buttonsContainer {
+  margin-top: 1.5vw;
+  width: 99%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttonsDiv {
+  max-width: 850px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.buttonsSR {
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  text-align: left;
+  font: normal normal normal 20px/26px Roboto !important;
+  letter-spacing: 0px;
+  color: #42515f !important;
+  opacity: 1;
+  background-color: #e2e2e2 !important;
+  width: 10vw;
+  height: 5.5vh;
+  border: 1px solid #969696 !important;
+  border-radius: 5px !important;
+}
